@@ -1,2 +1,20 @@
-# VORA-Food-Delivery-App
-VORA – Full Stack Food Delivery Web Application, a modern and dynamic food delivery web application designed to deliver a smooth, real-time ordering experience with an engaging UI/UX. VORA simulates a real-world food ordering platform where users can explore restaurants, browse categories, add items to cart, and place orders seamlessly. 
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/4355fbc8-e8e8-487f-bbd9-5d122b4e4621
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
